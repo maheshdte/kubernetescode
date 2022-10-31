@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Welcome, your app has been deployed'
+    return 'Welcome, this is complete CI/CD using ArgoCD'
